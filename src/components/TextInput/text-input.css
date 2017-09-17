@@ -1,0 +1,11 @@
+.text-input {
+    border-radius: 5px;
+    margin: 20px 5px;
+    border: solid 2px #fff;
+    padding:  5px 15px;
+}
+
+.text-input__icon {
+    position: relative;
+    transform: translateX(-30px);
+}

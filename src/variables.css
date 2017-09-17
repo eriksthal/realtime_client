@@ -1,0 +1,11 @@
+html {
+    /* Navigation Paddings */
+    --navigation-parent-left-padding: 15%; 
+    --navigation-child-left-padding: 23%; 
+    --navigation-right-padding: 15%;
+
+    /* Buttons  */
+    --warning-button-color:red;
+    --error-button-color: red;
+    --primary-button-color: red;
+}
